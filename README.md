@@ -19,4 +19,4 @@ And go to
 
 # Here's how it looks!
 
-![screenshot](/Users/mattsch/repos/sandpit/folkabulary/screen.png)
+![screenshot](https://raw.githubusercontent.com/mattschofield/folkabulary/master/screenshot.png)
