@@ -15,3 +15,8 @@ Change into the directory and run
 And go to
 
     localhost:8000
+
+
+# Here's how it looks!
+
+[screenshot](/Users/mattsch/repos/sandpit/folkabulary/screen.png)

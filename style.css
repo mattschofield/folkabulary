@@ -25,6 +25,9 @@ a {
   font-family: monospace;
   font-weight: 100;
   font-size: 16px;
+/*  text-align: left;
+  margin-left: 20%;
+  width: 65%;*/
 }
 
 #graph-area {
