@@ -1,3 +1,7 @@
 output/
 output-copy/
+*.zip
+*output*
 *.tsv
+
+.DS_Store
