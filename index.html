@@ -123,6 +123,7 @@
           name: datum.artist_name,
           mbid: datum.mbid,
           raw_num_words: datum.num_words,
+          track_count: datum.track_count,
           all_max: max,
           all_min: min,
           image_url: datum.image_url || null
@@ -135,7 +136,9 @@
       .html(function (d) {
         return "<p>"+d.name+"</p>" + 
                 "</br>" +
-                "<p>"+d.raw_num_words+"</p>";
+                "<p>"+d.raw_num_words+" words used</p>" +
+                "</br>"+
+                "<p>"+d.track_count+" tracks</p>";
       });
 
         //x for x-position
