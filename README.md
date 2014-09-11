@@ -6,13 +6,15 @@ Inspired by "The Largest Vocabulary in Hip Hip" by Matt Daniels. Here's our folk
 
 # Setup
 
-Clone this repo.
+Clone this repo with
+
+    git clone git@github.com:mattschofield/folkabulary.git
 
 Change into the directory and run
 
     python -m SimpleHTTPServer
 
-And go to
+And go (in your browser) to
 
     localhost:8000
 
